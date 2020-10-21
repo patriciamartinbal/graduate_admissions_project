@@ -6,6 +6,8 @@
 
 # INSTALL AND LOAD PACKAGES ############################
 
+#cambio de hoy
+
 # Load base packages 
 library(datasets) # importing datasets
 
@@ -13,6 +15,7 @@ library(datasets) # importing datasets
 ?iris # help about iris dataset
 df <- iris # create var called df and assign iris dataset
 head(df) # print first elements
+df
 df
 
 # ANALIZE DATA #########################################
