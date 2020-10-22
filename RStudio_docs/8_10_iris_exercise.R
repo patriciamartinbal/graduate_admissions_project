@@ -16,7 +16,8 @@ library(datasets) # importing datasets
 df <- iris # create var called df and assign iris dataset
 head(df) # print first elements
 df
-df
+ num1 <- 10
+ 
 
 # ANALIZE DATA #########################################
 hist(df$Petal.Width,
